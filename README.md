@@ -1,5 +1,5 @@
 # safety_equipment_tracking_yolov8
-Ultralytics Yolov8 object detection and tracking to detect, track and monitor safety equipment status
+## Ultralytics Yolov8 object detection and tracking to detect, track and monitor safety equipment status
 
 This project has been developed to showcase the potential usage of object detection and object tracking, customized to monitor events by keeping track of the time and raising a signal when a certain condition is met. It can be further customized for different scenarios and different conditions.
 
